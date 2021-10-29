@@ -4,7 +4,7 @@
 
 
 ## set up
-1. 在使用ble.py 先確定要連接的裝置的藍芽address type\
+1. 在使用ble.py 先確定要連接的裝置的藍芽address type
 2.  先讓想要連結的裝置彼此同意互連藍芽
 
 
